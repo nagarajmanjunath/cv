@@ -14,15 +14,12 @@ sidebar:
   # Sidebar links
   email: nagarajnet22@gmail.com
   phone: +60146164628
-  website: #do not add http://
-  linkedin: nagaraj
-  xing: alandoe
+  linkedin: nagaraj-m-25264b10a
   github: nagarajmanjunath
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  twitter: "@webjeda"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  telegram: @vlas
+  gitlab: @nagarajmanjunath22
+  twitter:
+  stack-overflow: 11666255/fama, #e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -58,132 +55,131 @@ education:
   - degree: Bachalor/Electronics & Communication
     university: KVGCE/Mangalore
     time: 2009 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
   - degree: Diploma/Electronics & Communication
     university: RNSIT
     time: 2006 - 2009
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior Blockchain Developer
+    time: 2021 - Present
+    company: Acuity Tech, Malaysia
+    details: Acuity Tech Sdn. Bhd. was incorporated in 2016 as an emerging integrated business solutions 
+             and information technology development company. 
+             Our team is made up of professionals from a variety of backgrounds, culminating a wealth of
+             work experiences behind them. We put our clients’
+             needs ahead of ours and seek to create new opportunities for profitable growth for our clients.
+     
+  - role: Blockchain Engineer
+    time: 2018 - 2019
+    company: Finterra , Malaysia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Finterra aims to be a global leader in next generation Fintech,
+providing “Social Solutions for Blockchain”.
+        - Working in blockchain development.
+        - Responsibitlites to work in core development of gallactic blockchain.
+
+  - role: Technology Analyst
+    time: 2017 - 2018
+    company: Infosys, Bangalore
+  
   - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+    time: 2015 - 2017
+    company: Sarvajna Technologies, Bangalore
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Sarvajna Teconologies which build Social media Application.
 projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: Projects Role & Responsibilities
+
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: NFT using Substrate
+      link: "https://github.com/nagarajmanjunath/substrate-contract-erc20"
+      tagline: "Programming: Rust Lang
+                Consensus: AURA
+                Responsibilities: Creating the NFT(ERC721) using a contract pallet.
+                                  Creating the FT(ERC20) using a contract pallet.
+                                  Usage of Substrate node.
+                                  Study on Webassebmley WASI"
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Mangostine Blockchain
+      link: "https://gitlab.com/nagarajmanjunath22/mangostine-rust"
+      tagline: " Role: Senior Blockchain developer 
+                 Programming: Rust Lang
+                 Consensus: RAFT
+                 Responsibilities:Creating the workflow design for business logic.
+                                  Programming with core blockchain team to support the business logic.
+                                  Handling the libp2p.
+                                  Programing the Merkle Trie 
+                                  Creating the benchmark tools.
+                                  Handling the team.
+                                  Handling blockchain deployment using docker and k8."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Mangostine Virtual Machine(WASI)
+      link: "https://github.com/nagarajmanjunath/Smartcontract-rust-wasm"
+      tagline: "Role: Senior Blockchain developer 
+                Programming: Rust Lang
+                Virtual Intepretor: WASI
+                Responsibilities: Designing the workflow design for WASI(virtual machine).
+                                  Creating a Wasm interpreter to compile the smart contract.
+                                  Handling smart contract which written in rust and compileto wasm.
+                                  Usage of CAPN proto."
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Maxonrwo Blockchain
+      link: "https://github.com/nagarajmanjunath/maxonrow-go"
+      tagline: "Role: Senior Blockchain developer 
+                Programming: Go lang
+                Consensus: Proof of stake Tendermint 
+                Responsibilities: Design the protocol system for blockchain.
+                                  Programming with core blockchain team to support the business logic example Ft and Nft using native core.
+                                  Creating the JSON RPC to support the blockchain.
+                                  Creating the benchmark tools.
+                                  Handling the team.
+                                  Handling blockchain deployment using docker and k8."
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Avantas Blockchain
+      link: "https://gitlab.com/nagarajmanjunath22/avantas/-/tree/avantas-v2.0"
+      tagline: "Role: Senior Blockchain developer/Consultant
+                Programming: Go lang and bash
+                Consensus: Raft (Hyperledger fabric)
+                Responsibilities:Creating fabric architecture for business requirement
+                                 Handling the peer and orderer in the system
+                                 Creating the Chain code using go lang
+                                 Creating the script to deploy peer, ordered, and chain code.
+                                 Handling the hyper-ledger fabric block explorer
+                                 Handling the team.
+                                 Handling blockchain deployment."
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+    - title: Galletic Blockchain
+      link: "https://github.com/nagarajmanjunath/gallactic"
+      tagline: "Role: Blockchain developer 
+                Programming: Go lang
+                Consensus: Proof of stake Tendermint 
+                Responsibilities:To work on consensus engine with changes for tender mint as per business requirement. 
+                                 Programming with the core team to create a virtual machine which took the reference to sputnik evm able to deploy the smart contract.  
+                                 Programming the logic for bonding and unbonding stake.      
+                                 Handling the API using grpc protobuf."
 
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
+
+    - name: Blockchain
       level: 98%
 
-    - name: Javascript & jQuery
+    - name: Golang
       level: 98%
 
-    - name: Angular
-      level: 98%
+    - name: Rust
+      level: 70%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Javascript
+      level: 60%
 
-    - name: Ruby on Rails
-      level: 85%
+    - name: C#
+      level: 55 %
 
-    - name: Sketch & Photoshop
+    - name: React Js
       level: 60%
 
 footer: >
