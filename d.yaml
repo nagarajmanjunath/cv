@@ -16,8 +16,8 @@ sidebar:
   phone: +60146164628
   linkedin: nagaraj-m-25264b10a
   github: nagarajmanjunath
-  telegram: @vlas
-  gitlab: @nagarajmanjunath22
+  telegram: vlas
+  gitlab: nagarajmanjunath22
   twitter:
   stack-overflow: 11666255/fama, #e.g. 123456/alandoe
   codewars:
@@ -72,9 +72,9 @@ experiences:
   - role: Blockchain Engineer
     time: 2018 - 2019
     company: Finterra , Malaysia
-    details: |
+    details: 
       Finterra aims to be a global leader in next generation Fintech,
-providing “Social Solutions for Blockchain”.
+      providing “Social Solutions for Blockchain”.
         - Working in blockchain development.
         - Responsibitlites to work in core development of gallactic blockchain.
 
@@ -85,7 +85,7 @@ providing “Social Solutions for Blockchain”.
   - role: Senior Software Engineer
     time: 2015 - 2017
     company: Sarvajna Technologies, Bangalore
-    details: |
+    details: 
       Sarvajna Teconologies which build Social media Application.
 projects:
   title: Projects Role & Responsibilities
