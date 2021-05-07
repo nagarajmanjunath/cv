@@ -1,0 +1,186 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Nagaraj Manjunath
+  tagline: Senior Blockchain Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: nagarajnet22@gmail.com
+  phone: +60146164628
+  linkedin: nagaraj-m-25264b10a
+  github: nagarajmanjunath
+  telegram: @vlas
+  gitlab: @nagarajmanjunath22
+  twitter:
+  stack-overflow: 11666255/fama, #e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  languages:
+    - idiom: English
+      level: Professional
+
+    - idiom: Kannada
+      level: Native
+
+    - idiom: Hindi
+      level: Professional
+
+  interests:
+    - item: Research
+      link:
+
+    - item: Reading Books
+      link:
+
+    - item: Cooking
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Having 7+ years of experience in IT profession, 
+    Seeking a Position in Blockcha
+    in domain to work in a challenging and dynamic 
+    environment and contribute to the growth of the 
+    organisation & to enhance my technical skills.
+education:
+  - degree: Bachalor/Electronics & Communication
+    university: KVGCE/Mangalore
+    time: 2009 - 2012
+  - degree: Diploma/Electronics & Communication
+    university: RNSIT
+    time: 2006 - 2009
+
+experiences:
+  - role: Senior Blockchain Developer
+    time: 2021 - Present
+    company: Acuity Tech, Malaysia
+    details: Acuity Tech Sdn. Bhd. was incorporated in 2016 as an emerging integrated business solutions 
+             and information technology development company. 
+             Our team is made up of professionals from a variety of backgrounds, culminating a wealth of
+             work experiences behind them. We put our clients’
+             needs ahead of ours and seek to create new opportunities for profitable growth for our clients.
+     
+  - role: Blockchain Engineer
+    time: 2018 - 2019
+    company: Finterra , Malaysia
+    details: |
+      Finterra aims to be a global leader in next generation Fintech,
+providing “Social Solutions for Blockchain”.
+        - Working in blockchain development.
+        - Responsibitlites to work in core development of gallactic blockchain.
+
+  - role: Technology Analyst
+    time: 2017 - 2018
+    company: Infosys, Bangalore
+  
+  - role: Senior Software Engineer
+    time: 2015 - 2017
+    company: Sarvajna Technologies, Bangalore
+    details: |
+      Sarvajna Teconologies which build Social media Application.
+projects:
+  title: Projects Role & Responsibilities
+
+  assignments:
+    - title: NFT using Substrate
+      link: "https://github.com/nagarajmanjunath/substrate-contract-erc20"
+      tagline: "Programming: Rust Lang
+                Consensus: AURA
+                Responsibilities: Creating the NFT(ERC721) using a contract pallet.
+                                  Creating the FT(ERC20) using a contract pallet.
+                                  Usage of Substrate node.
+                                  Study on Webassebmley WASI"
+
+    - title: Mangostine Blockchain
+      link: "https://gitlab.com/nagarajmanjunath22/mangostine-rust"
+      tagline: " Role: Senior Blockchain developer 
+                 Programming: Rust Lang
+                 Consensus: RAFT
+                 Responsibilities:Creating the workflow design for business logic.
+                                  Programming with core blockchain team to support the business logic.
+                                  Handling the libp2p.
+                                  Programing the Merkle Trie 
+                                  Creating the benchmark tools.
+                                  Handling the team.
+                                  Handling blockchain deployment using docker and k8."
+
+    - title: Mangostine Virtual Machine(WASI)
+      link: "https://github.com/nagarajmanjunath/Smartcontract-rust-wasm"
+      tagline: "Role: Senior Blockchain developer 
+                Programming: Rust Lang
+                Virtual Intepretor: WASI
+                Responsibilities: Designing the workflow design for WASI(virtual machine).
+                                  Creating a Wasm interpreter to compile the smart contract.
+                                  Handling smart contract which written in rust and compileto wasm.
+                                  Usage of CAPN proto."
+
+    - title: Maxonrwo Blockchain
+      link: "https://github.com/nagarajmanjunath/maxonrow-go"
+      tagline: "Role: Senior Blockchain developer 
+                Programming: Go lang
+                Consensus: Proof of stake Tendermint 
+                Responsibilities: Design the protocol system for blockchain.
+                                  Programming with core blockchain team to support the business logic example Ft and Nft using native core.
+                                  Creating the JSON RPC to support the blockchain.
+                                  Creating the benchmark tools.
+                                  Handling the team.
+                                  Handling blockchain deployment using docker and k8."
+
+    - title: Avantas Blockchain
+      link: "https://gitlab.com/nagarajmanjunath22/avantas/-/tree/avantas-v2.0"
+      tagline: "Role: Senior Blockchain developer/Consultant
+                Programming: Go lang and bash
+                Consensus: Raft (Hyperledger fabric)
+                Responsibilities:Creating fabric architecture for business requirement
+                                 Handling the peer and orderer in the system
+                                 Creating the Chain code using go lang
+                                 Creating the script to deploy peer, ordered, and chain code.
+                                 Handling the hyper-ledger fabric block explorer
+                                 Handling the team.
+                                 Handling blockchain deployment."
+
+    - title: Galletic Blockchain
+      link: "https://github.com/nagarajmanjunath/gallactic"
+      tagline: "Role: Blockchain developer 
+                Programming: Go lang
+                Consensus: Proof of stake Tendermint 
+                Responsibilities:To work on consensus engine with changes for tender mint as per business requirement. 
+                                 Programming with the core team to create a virtual machine which took the reference to sputnik evm able to deploy the smart contract.  
+                                 Programming the logic for bonding and unbonding stake.      
+                                 Handling the API using grpc protobuf."
+
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+
+    - name: Blockchain
+      level: 98%
+
+    - name: Golang
+      level: 98%
+
+    - name: Rust
+      level: 70%
+
+    - name: Javascript
+      level: 60%
+
+    - name: C#
+      level: 55 %
+
+    - name: React Js
+      level: 60%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
